@@ -1,2 +1,2 @@
 # github-firsttest
-This my learning
+This is my first learning for github
